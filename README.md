@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**alfisukma/alfisukma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Self-introduction
 
-Here are some ideas to get you started:
+## Name:
+[alfiyah damayanti sukma]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## School Origin:
+[Wahid Hasyim Science High School]
+
+## Class:
+[X5]
+
+## Hobbies:
+[reading, playing, shopping]
+
+## Interests:
+[sports and religious history]
+
+## Goals:
+[lecturer]
+
+## Things you want to learn:
+[more about religion and its history]
+
+## Contact:
+[@alfiidmy]
+
